@@ -1,0 +1,26 @@
+[
+  {
+    "name": "PM-KISAN",
+    "description": "Financial support scheme for eligible farmers.",
+    "benefit": "Up to ₹6000 per year",
+    "category": "Agriculture"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana",
+    "description": "Crop insurance scheme that provides financial protection against crop losses.",
+    "benefit": "Crop insurance coverage",
+    "category": "Agriculture"
+  },
+  {
+    "name": "Kisan Credit Card",
+    "description": "Provides farmers with affordable credit for agricultural and related activities.",
+    "benefit": "Easy access to agricultural credit",
+    "category": "Finance"
+  },
+  {
+    "name": "PM-KUSUM",
+    "description": "Supports farmers with solar energy solutions for agricultural activities.",
+    "benefit": "Solar pumps and renewable energy support",
+    "category": "Energy"
+  }
+]

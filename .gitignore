@@ -1,0 +1,21 @@
+# Frontend dependencies
+frontend/GramSetu-main/node_modules/
+
+# Python temporary files
+backend/__pycache__/
+*.pyc
+
+# Database and private data
+backend/data/gramsetu.db
+backend/data/*.db
+backend/data/*.sqlite
+backend/data/*.sqlite3
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# Old backup files
+backend/app_backup*.py
+backend/app_day2_backup.py

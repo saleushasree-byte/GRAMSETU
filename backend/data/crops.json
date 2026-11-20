@@ -1,0 +1,13 @@
+{
+    "rice": {
+        "clay": "Maintain proper water levels and use nitrogen-rich fertilizer.",
+        "loamy": "Maintain moderate irrigation and use balanced fertilizer."
+    },
+    "wheat": {
+        "clay": "Ensure proper irrigation and use balanced fertilizer.",
+        "loamy": "Provide good drainage and use balanced fertilizer."
+    },
+    "maize": {
+        "black": "Use well-drained soil and apply nitrogen-rich fertilizer."
+    }
+}
